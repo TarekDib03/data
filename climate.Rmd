@@ -1,0 +1,122 @@
+---
+output: html_document
+theme: united
+---
+
+## *Intoduction*
+There have been many studies documenting that the average global temperature has been increasing over the last century. The consequences of a continued rise in global temperature will be dire. Rising sea levels and an increased frequency of extreme weather events will affect billions of people. We will study the relationship between average global temperature and several other factors. Climate data are from May 1983 to December 2008. The data set includes the following variables:
+
+* Year: the observation year.
+* Month: the observation month.
+* Temp: the difference in degrees Celsius between the average global temperature in that period and a reference value. These data come from the Climatic Research Unit at the University of East Anglia.
+* $CO_2$, $N_2O$, $CH_4$, CFC.11, CFC.12: atmospheric concentrations of carbon dioxide ($CO_2$), nitrous oxide ($N_2O$), methane  ($CH_4$), trichlorofluoromethane ($CCl_3F$; commonly referred to as CFC-11) and dichlorodifluoromethane ($CCl_2F2$; commonly referred to as CFC-12), respectively. These data come from the ESRL/NOAA Global Monitoring Division. $CO_2$, $N_2O$ and $CH_4$ are expressed in ppmv (parts per million by volume  -- i.e., 397 ppmv of $CO_2$ means that $CO_2$ constitutes 397 millionths of the total volume of the atmosphere) CFC.11 and CFC.12 are expressed in ppbv (parts per billion by volume). 
+* Aerosols: the mean stratospheric aerosol optical depth at 550 nm. This variable is linked to  volcanoes, as volcanic eruptions result in new particles being added to the atmosphere, which     affect how much of the sun's energy is reflected back into space. The data are from the Godard Institute for Space Studies at NASA.
+* TSI: the total solar irradiance (TSI) in $W/m^2$ (the rate at which the sun's energy is deposited per unit area). Due to sunspots and other solar phenomena, the amount of energy that is given off by the sun varies substantially with time. These data are from the SOLARIS-HEPPA project website.
+* MEI: multivariate El Nino Southern Oscillation index (MEI), a measure of the strength of the El Nino/La Nina-Southern Oscillation (a weather effect in the Pacific Ocean that affects global temperatures). The data come from the ESRL/NOAA Physical Sciences Division.
+
+To follow along, please download the climate change data set from ("https://github.com/TarekDib03/Analytics/blob/master/Week2%20-%20Linear%20Regression/Data/climate_change.csv")
+
+### Reading and Exploring Data Structure and Summary Statistics
+```{r}
+climate <- read.csv("climate_change.csv", stringsAsFactors = F)
+# Summary Statistics
+str(climate)
+library(knitr)
+kable(summary(climate[, -which(names(climate) %in% c("Year", "Month"))]))
+```
+
+### Correlation Matrix
+```{r fig.width=8, fig.height=4}
+library(corrplot)
+# Create a data frame to be used  to plot the correlation matrix
+climate_df <- climate[, -which(names(climate) %in% c("Year", "Month"))]
+corr <- cor(climate_df)
+# Change color spectrum to be used for the correlation plot
+cor_col <- colorRampPalette(c("#7F0000", "red", "#FF7F00", "yellow", "#7FFF7F", "cyan", "#007FFF", "blue", "#00007F"))
+corrplot(corr, type = "lower", col = cor_col(10))
+```
+
+From the figure above there seems to be a high correlation among many of the independent variables. It is obviuios that there is a high correlation between $CO_2$ and $CH_4$, $N_2O$, CFC.11 and CFC.12. To avoid multicollinearity problem, 4 of these 5 independent variables will not be included in building the model.
+
+### Data Visualization
+```{r fig.width=8, fig.height=4}
+library(ggplot2)
+p <- ggplot(climate_df, aes(N2O, Temp))
+p + geom_point() + 
+  geom_smooth(method = "lm") +
+  xlab("Nitrogen Level") + 
+  ylab("Temperature Difference") +
+  ggtitle("Temperature Difference vs. Nitrogen Level\n Linear Fit")
+
+# Use the aggregate function to compute the average yearly temperature difference
+temp_diff <- aggregate(climate$Temp, by = list(climate$Year), FUN = "mean")
+# Change column names of the temp_diif data frame
+names(temp_diff) <- c("Year", "Temperature")
+
+# Plot yearly average Temperature difference and fit a loess curve to study the trend of change in temperature 
+ggplot(temp_diff, aes(Year, Temperature)) + 
+  geom_point(colour="red", pch=25, cex=2) + 
+  geom_smooth(method = "loess") + 
+  ylab("Temperature (C)") + 
+  ggtitle("Yearly Global Average Temperature Difference Between\n Current Year's Temperature and a reference Value")
+```
+
+### Ordering Temperature Difference in Descending Order
+```{r results="asis"}
+library(xtable)
+tab <- xtable((temp_diff[order(temp_diff$Temperature, decreasing  = T),]))
+rownames(tab) <- NULL
+print(tab, type="html")
+```
+
+As seen in the figure above, there was an increasing trend in the global average temperature from 1983 to 2005. From 2006 to 2008, there seems a decrease in the yearly global average temperature as is indicated from the data at hand. However, the year 2014 was the warmest year across global land and ocean surfaces since records began in 1880. Thus, more analysis is needed to study the trend in the change of global temperature.
+
+## *Building a Linear Regression Model with all the Variables*
+First, we will split the data into two sets; training and test. Training set includes data prior to 2006, and the test set includes 2007 and 2008 data.
+```{r}
+trn <- subset(climate, climate$Year <= 2006)
+tst <- subset(climate, climate$Year > 2006)
+# Build model with all variables as predictors except Year and Month
+model1 <- lm(Temp~.-Year - Month, data=trn)
+summary(model1)
+# Build a model where 4 of 5 highly correlated independent variables are not included.
+model2 <- lm(Temp ~ MEI + TSI + Aerosols + N2O, data=trn)
+summary(model2)
+
+# Use the train data set to predict temperature difference
+temp.pred.trn <- predict(model2, newdata = trn)
+(mse.trn <- mean((temp.pred.trn - trn$Temp)^2))
+
+# Use the test data set to predict temperature difference
+temp.pred.tst <- predict(model2, newdata=tst)
+summary(temp.pred.tst)
+
+# Test mean square error (mse)
+(mse.tst <- mean((temp.pred.tst - tst$Temp)^2))
+```
+
+### Diagnostic Pot
+```{r fig.width=8, fig.height=6}
+layout(matrix(1:4, 2, 2))
+plot(model2)
+```
+
+
+## Time Series Analysis - A Quick Look
+
+### *Monthly Temperature Difference*
+```{r fig.width=10, fig.height=8}
+temp_ts_monthly <- ts(climate$Temp, start=1983, frequency=12)
+par(mfrow=c(2,2))
+plot(decompose(temp_ts_monthly))
+```
+
+### *Yearly Average Temperature Difference*
+```{r fig.width=8, fig.height=4}
+temp_ts_yearly <- ts(temp_diff$Temp, start=1983, frequency=1)
+suppressMessages(library(forecast))
+plot(forecast(ets(temp_ts_yearly),10))
+```
+
+## References
+https://www.ncdc.noaa.gov/sotc/global/201413

@@ -1,0 +1,1027 @@
+Column 1,Column 2,Column 3,Column 4,Column 5,Column 6,Column 7
+Rank,Theta_PR,Na,University,CC,LC,FC
+1,2272,24,University of Cambridge,UK,EN,13
+2,2247,24,University of Oxford,UK,EN,11
+3,2112,22,Harvard University,US,EN,17
+4,2025,23,Columbia University,US,EN,18
+5,1887,23,Princeton University,US,EN,18
+6,1869,21,Massachusetts Institute of Technology,US,EN,19
+7,1783,22,University of Chicago,US,EN,19
+8,1765,21,Stanford University,US,EN,19
+9,1716,20,Yale University,US,EN,18
+10,1557,19,"University of California, Berkeley",US,EN,19
+11,1531,21,Humboldt University of Berlin,DE,DE,19
+12,1481,22,Cornell University,US,EN,19
+13,1351,20,University of Pennsylvania,US,EN,18
+14,1285,20,University of London,UK,EN,19
+15,1224,19,Uppsala University,SE,SV,15
+16,1209,20,University of Edinburgh,UK,EN,16
+17,1195,20,Heidelberg University,DE,DE,14
+18,1193,18,"University of California, Los Angeles",US,EN,19
+19,1171,20,New York University,US,EN,19
+20,1131,18,University of Michigan,US,EN,19
+21,1119,19,Johns Hopkins University,US,EN,19
+22,1113,19,University of Vienna,AT,DE,14
+23,1099,18,University of Göttingen,DE,DE,18
+24,1030,16,London School of Economics,UK,EN,19
+25,990,19,Moscow State University,RU,RU,18
+26,974,19,University of Bologna,IT,IT,11
+27,948,18,Leipzig University,DE,DE,15
+28,928,15,California Institute of Technology,US,EN,19
+29,911,18,Ludwig Maximilian University of Munich,DE,DE,15
+30,764,15,University of Southern California,US,EN,19
+31,752,17,University of Tokyo,JP,JA,19
+32,743,15,Leiden University,NL,NL,16
+33,707,11,Lund University,SE,SV,17
+34,680,13,Charles University in Prague,CZ,WR,14
+35,668,12,University College London,UK,EN,19
+36,577,11,University of Copenhagen,DK,DA,15
+37,576,11,École Normale Supérieure,FR,FR,18
+38,570,14,University of Manchester,UK,EN,19
+39,556,13,École Polytechnique,FR,FR,18
+40,538,14,University of Bonn,DE,DE,19
+41,523,11,University of Texas at Austin,US,EN,19
+42,519,15,Duke University,US,EN,19
+43,507,15,Carnegie Mellon University,US,EN,19
+44,505,9,Al-Azhar University,EG,AR,20
+45,490,10,University of Helsinki,FI,WR,17
+46,487,15,University of Virginia,US,EN,19
+47,483,12,Hebrew University of Jerusalem,IL,HE,20
+48,470,12,University of Toronto,CA,EN,19
+49,460,9,King's College London,UK,EN,16
+50,450,9,Imperial College London,UK,EN,20
+51,447,11,University of Illinois at Urbana–Champaign,US,EN,19
+52,429,10,Sapienza University of Rome,IT,IT,14
+53,428,8,ETH Zurich,CH,DE,19
+54,426,12,University of Zurich,CH,DE,16
+55,389,12,University of Washington,US,EN,19
+56,377,12,University of Minnesota,US,EN,19
+57,373,12,Georgetown University,US,EN,18
+58,373,10,University of Wisconsin–Madison,US,EN,19
+59,361,10,McGill University,CA,EN,19
+60,351,9,University of Glasgow,UK,EN,15
+61,346,8,University of Oslo,NO,WR,19
+62,346,7,Peking University,CN,ZH,19
+63,344,6,Michigan State University,US,EN,19
+64,340,13,Brown University,US,EN,18
+65,338,8,University of Tübingen,DE,DE,15
+66,332,8,Jagiellonian University,PL,PL,14
+67,327,8,Saint Petersburg State University,RU,RU,18
+68,324,8,Free University of Berlin,DE,DE,20
+69,324,5,Kyoto University,JP,JA,19
+70,317,9,University of Padua,IT,IT,13
+71,314,7,Karolinska Institutet,SE,SV,19
+72,301,5,Waseda University,JP,JA,19
+73,300,5,University of Florida,US,EN,19
+74,298,6,University of Geneva,CH,DE,16
+75,295,6,Ohio State University,US,EN,19
+76,273,7,University of Jena,DE,DE,16
+77,269,5,Keio University,JP,JA,19
+78,262,9,University of Arizona,US,EN,19
+79,261,6,"University of Maryland, College Park",US,EN,19
+80,260,6,Stockholm University,SE,SV,19
+81,248,5,"Trinity College, Dublin",IE,EN,16
+82,247,7,Boston University,US,EN,19
+83,245,6,University of Strasbourg,FR,FR,16
+84,239,6,University of Tartu,EE,WR,17
+85,236,7,Rutgers University,US,EN,18
+86,234,4,Institut Polytechnique des Sciences Avancées,FR,FR,20
+87,232,6,University of Warsaw,PL,PL,19
+88,228,6,Utrecht University,NL,NL,17
+89,227,6,University of North Carolina at Chapel Hill,US,EN,18
+90,224,4,Rockefeller University,US,EN,20
+91,217,7,Martin Luther University of Halle-Wittenberg,DE,DE,16
+92,211,5,Tsinghua University,CN,ZH,20
+93,209,6,University of St Andrews,UK,EN,15
+94,208,5,University of Amsterdam,NL,NL,17
+95,204,9,Northwestern University,US,EN,19
+96,204,6,University of Notre Dame,US,EN,19
+97,189,4,Technical University of Berlin,DE,DE,20
+98,189,3,University of Coimbra,PT,PT,13
+99,187,6,Indiana University,US,EN,19
+100,187,3,University of Wrocław,PL,PL,18
+101,185,5,University of Hamburg,DE,DE,20
+102,183,4,University of Cologne,DE,DE,14
+103,182,7,Purdue University,US,EN,19
+104,182,4,University of Marburg,DE,DE,16
+105,179,3,Seoul National University,KR,KO,20
+106,178,4,Cairo University,EG,AR,20
+107,177,4,Dartmouth College,US,EN,18
+108,175,2,Technion – Israel Institute of Technology,IL,HE,20
+109,170,4,University of Graz,AT,DE,16
+110,167,5,Pennsylvania State University,US,EN,19
+111,165,4,University of Freiburg,DE,DE,15
+112,165,4,University of Kiel,DE,DE,17
+113,165,4,University of Belgrade,RS,WR,19
+114,164,3,University of Sydney,AU,EN,19
+115,162,3,Meiji University,JP,JA,19
+116,162,2,Linköping University,SE,SV,20
+117,161,2,Université libre de Bruxelles,BE,NL,19
+118,159,6,University of Basel,CH,DE,15
+119,158,4,University of Gothenburg,SE,SV,19
+120,157,3,University of Greifswald,DE,DE,15
+121,156,5,Versailles Saint-Quentin-en-Yvelines University,FR,FR,20
+122,154,4,Brigham Young University,US,EN,19
+123,151,6,Washington University in St. Louis,US,EN,19
+124,151,3,Linnaeus University,SE,SV,20
+125,149,4,University of Iowa,US,EN,19
+126,148,3,Nanjing University,CN,ZH,20
+127,146,3,Ghent University,BE,NL,19
+128,145,2,Lviv University,UA,WR,17
+129,144,3,American University of Beirut,LB,AR,19
+130,143,6,University of Pittsburgh,US,EN,18
+131,143,3,George Washington University,US,EN,19
+132,143,3,University of Liverpool,UK,EN,20
+133,142,2,University of Groningen,NL,NL,17
+134,139,3,Aarhus University,DK,DA,20
+135,138,3,University of Florence,IT,IT,14
+136,137,2,University of Liège,BE,NL,19
+137,136,3,Technische Universität München,DE,DE,19
+138,136,2,National Autonomous University of Mexico,MX,ES,20
+139,135,5,University of Hawaii,US,EN,20
+140,134,3,Nihon University,JP,JA,19
+141,133,3,University of Paris-Sud,FR,FR,20
+142,131,2,Paris West University Nanterre La Défense,FR,FR,20
+143,130,5,"University of California, San Diego",US,EN,20
+144,129,4,University of Melbourne,AU,EN,19
+145,129,2,University of Naples Federico II,IT,IT,13
+146,128,2,Istanbul Technical University,TR,TR,18
+147,128,2,Kansas State University,US,EN,19
+148,125,3,University of Lausanne,CH,DE,16
+149,124,4,University of British Columbia,CA,EN,20
+150,124,3,Goethe University Frankfurt,DE,DE,20
+151,124,2,Fudan University,CN,ZH,20
+152,123,3,University of Pavia,IT,IT,14
+153,123,2,University of Erlangen-Nuremberg,DE,DE,18
+154,123,2,University of Tennessee,US,EN,18
+155,122,2,Istanbul University,TR,TR,15
+156,119,2,Yıldız Technical University,TR,TR,20
+157,118,2,Osaka University,JP,JA,18
+158,117,2,Taras Shevchenko National University of Kyiv,UA,WR,19
+159,116,5,University of Salamanca,ES,ES,12
+160,116,3,Shanghai Jiao Tong University,CN,ZH,19
+161,116,2,Alexandria University,EG,AR,20
+162,114,2,University of Münster,DE,DE,18
+163,114,2,Chuo University,JP,JA,19
+164,114,2,Radboud University Nijmegen,NL,NL,20
+165,114,2,Middle East Technical University,TR,TR,20
+166,112,4,National University of Singapore,SG,ZH,20
+167,112,2,Dresden University of Technology,DE,DE,19
+168,111,3,Tel Aviv University,IL,HE,20
+169,111,2,Takushoku University,JP,JA,19
+170,110,4,University of Birmingham,UK,EN,19
+171,110,2,Marmara University,TR,TR,19
+172,110,2,University of Malaya,MY,MS,20
+173,106,4,Syracuse University,US,EN,19
+174,105,2,Shiraz University,IR,FA,20
+175,103,2,National and Kapodistrian University of Athens,GR,EL,19
+176,103,2,VU University Amsterdam,NL,NL,19
+177,103,2,Università Cattolica del Sacro Cuore,IT,IT,20
+178,102,2,Damascus University,SY,AR,20
+179,102,2,Umeå University,SE,SV,20
+180,102,2,Paris-Sorbonne University,FR,FR,20
+181,100,4,University of Latvia,LV,WR,20
+182,100,3,Complutense University of Madrid,ES,ES,13
+183,100,2,Weizmann Institute of Science,IL,HE,20
+184,100,1,Eötvös Loránd University,HU,HU,17
+185,100,1,Chulalongkorn University,TH,TH,20
+186,100,1,University of Tehran,IR,FA,20
+187,100,1,University of the West Indies,JM,EN,20
+188,99,2,Maastricht University,NL,NL,20
+189,99,1,Budapest University of Technology and Economics,HU,HU,18
+190,99,1,Korea University,KR,KO,20
+191,99,1,Aristotle University of Thessaloniki,GR,EL,20
+192,99,1,Thammasat University,TH,TH,20
+193,99,1,Nalanda University,IN,HI,21
+194,98,2,University of Barcelona,ES,ES,15
+195,98,1,University of Szeged,HU,HU,16
+196,98,1,University of São Paulo,BR,PT,19
+197,98,1,Yonsei University,KR,KO,19
+198,98,1,Adam Mickiewicz University in Poznań,PL,PL,20
+199,98,1,Kasetsart University,TH,TH,20
+200,98,1,Ankara University,TR,TR,20
+201,98,1,Bar-Ilan University,IL,HE,20
+202,98,1,University of Málaga,ES,ES,20
+203,98,1,Aalborg University,DK,DA,20
+204,98,1,Universiti Teknologi Malaysia,MY,MS,20
+205,97,2,École pratique des hautes études,FR,FR,19
+206,97,2,University of Dhaka,BD,WR,20
+207,97,1,Technical University of Denmark,DK,DA,19
+208,97,1,Allahabad University,IN,HI,19
+209,97,1,Iran University of Science and Technology,IR,FA,20
+210,97,1,Mahidol University,TH,TH,20
+211,97,1,University of Haifa,IL,HE,20
+212,96,3,University of Dublin,IE,EN,16
+213,96,3,Panthéon-Assas University,FR,FR,20
+214,96,2,University of Pisa,IT,IT,14
+215,96,2,Delft University of Technology,NL,NL,19
+216,96,2,San Diego State University,US,EN,19
+217,96,2,Paris Diderot University,FR,FR,20
+218,96,1,University of Pécs,HU,HU,14
+219,96,1,Aligarh Muslim University,IN,HI,19
+220,96,1,Simón Bolívar University,VE,ES,20
+221,96,1,Ben-Gurion University of the Negev,IL,HE,20
+222,96,1,National University of Malaysia,MY,MS,20
+223,96,1,Ramkhamhaeng University,TH,TH,20
+224,96,1,Roskilde University,DK,DA,20
+225,95,1,University of Debrecen,HU,HU,16
+226,95,1,Patna University,IN,HI,20
+227,95,1,Ain Shams University,EG,AR,20
+228,95,1,University of Monterrey,MX,ES,20
+229,95,1,Isfahan University of Technology,IR,FA,20
+230,94,3,University of Warwick,UK,EN,20
+231,94,2,Masaryk University,CZ,WR,20
+232,94,2,Roma Tre University,IT,IT,20
+233,94,1,Indian Institute of Technology Roorkee,IN,HI,19
+234,94,1,Boğaziçi University,TR,TR,19
+235,94,1,Babeș-Bolyai University,RO,WR,20
+236,94,1,Panteion University,GR,EL,20
+237,94,1,Hanyang University,KR,KO,20
+238,94,1,Srinakharinwirot University,TH,TH,20
+239,94,1,Universiti Teknologi MARA,MY,MS,20
+240,93,1,Semmelweis University,HU,HU,18
+241,93,1,Harvard Medical School,US,EN,18
+242,93,1,Tohoku University,JP,JA,20
+243,92,2,University of Rome Tor Vergata,IT,IT,14
+244,92,2,Kazan (Volga region) Federal University,RU,RU,19
+245,92,1,Federal University of Rio de Janeiro,BR,PT,18
+246,92,1,Hosei University,JP,JA,19
+247,92,1,Corvinus University of Budapest,HU,HU,20
+248,92,1,Silpakorn University,TH,TH,20
+249,92,1,University of Łódź,PL,PL,20
+250,92,1,Ege University,TR,TR,20
+251,92,1,University of Patras,GR,EL,20
+252,92,1,Universiti Sains Malaysia,MY,MS,20
+253,92,1,IT University of Copenhagen,DK,DA,20
+254,91,2,Kim Il-sung University,KP,KO,20
+255,91,1,University of Oviedo,ES,ES,16
+256,91,1,Chung-Ang University,KR,KO,20
+257,91,1,Athens University of Economics and Business,GR,EL,20
+258,91,1,Nicolaus Copernicus University in Toruń,PL,PL,20
+259,91,1,Chiang Mai University,TH,TH,20
+260,91,1,Sharif University of Technology,IR,FA,20
+261,91,1,Hacettepe University,TR,TR,20
+262,90,1,Vilnius University,LT,WR,16
+263,90,1,Laval University,CA,EN,17
+264,90,1,University of Lucknow,IN,HI,20
+265,90,1,Kyung Hee University,KR,KO,20
+266,90,1,Allameh Tabataba'i University,IR,FA,20
+267,89,1,University of Madras,IN,HI,19
+268,89,1,University of Tsukuba,JP,JA,19
+269,89,1,Dongguk University,KR,KO,20
+270,89,1,Wageningen University and Research Centre,NL,NL,20
+271,89,1,University of Gdańsk,PL,PL,20
+272,89,1,Payame Noor University,IR,FA,20
+273,88,2,University of Greenland,GL,DA,20
+274,88,1,Gazi University,TR,TR,20
+275,88,1,Universiti Putra Malaysia,MY,MS,20
+276,88,1,University of Córdoba (Colombia),CO,ES,20
+277,88,1,Prince of Songkla University,TH,TH,20
+278,88,1,Pantheon-Sorbonne University,FR,FR,20
+279,88,1,Luleå University of Technology,SE,SV,20
+280,88,1,Harokopio University,GR,EL,20
+281,88,1,DIT University,IN,HI,20
+282,87,2,Brandeis University,US,EN,20
+283,87,1,Sungkyunkwan University,KR,KO,14
+284,87,1,University of Miskolc,HU,HU,18
+285,87,1,University of Kharkiv,UA,WR,19
+286,87,1,Vrije Universiteit Brussel,BE,NL,19
+287,87,1,University of Lisbon,PT,PT,20
+288,87,1,American University in Cairo,EG,AR,20
+289,87,1,Magadh University,IN,HI,20
+290,87,1,Bangkok University,TH,TH,20
+291,86,2,Bauman Moscow State Technical University,RU,RU,19
+292,86,1,Ewha Womans University,KR,KO,19
+293,86,1,Mahachulalongkornrajavidyalaya University,TH,TH,19
+294,86,1,Erasmus University Rotterdam,NL,NL,20
+295,86,1,King Saud University,SA,AR,20
+296,86,1,University of Brasília,BR,PT,20
+297,86,1,University of Silesia in Katowice,PL,PL,20
+298,86,1,Jawaharlal Nehru University,IN,HI,20
+299,86,1,National University of Luján,AR,ES,20
+300,86,1,University of the Aegean,GR,EL,20
+301,85,4,University of Bristol,UK,EN,20
+302,85,1,Scuola Normale Superiore di Pisa,IT,IT,19
+303,85,1,University of Indonesia,ID,WR,19
+304,85,1,University of Antwerp,BE,NL,19
+305,85,1,Hokkaido University,JP,JA,19
+306,85,1,Université de Montréal,CA,EN,19
+307,85,1,Maria Curie-Skłodowska University,PL,PL,20
+308,85,1,University of Baghdad,IQ,AR,20
+309,85,1,Lalit Narayan Mithila University,IN,HI,20
+310,85,1,Democritus University of Thrace,GR,EL,20
+311,85,1,Bilkent University,TR,TR,20
+312,84,1,University of Mumbai,IN,HI,19
+313,84,1,University of Carabobo,VE,ES,19
+314,84,1,Wuhan University,CN,ZH,19
+315,84,1,Ritsumeikan University,JP,JA,19
+316,84,1,Ferdowsi University of Mashhad,IR,FA,20
+317,84,1,University of Ioannina,GR,EL,20
+318,84,1,Kuwait University,KW,AR,20
+319,84,1,Odense University,DK,DA,20
+320,84,1,University of Campinas,BR,PT,20
+321,84,1,Ariel University,IL,HE,20
+322,84,1,Dokuz Eylül University,TR,TR,20
+323,84,1,Universiti Utara Malaysia,MY,MS,20
+324,84,1,Cardinal Stefan Wyszyński University in Warsaw,PL,PL,20
+325,83,4,Università degli Studi Niccolò Cusano,IT,IT,21
+326,83,1,Université catholique de Louvain,BE,NL,15
+327,83,1,University of West Hungary,HU,HU,18
+328,83,1,Zhejiang University,CN,ZH,19
+329,83,1,Kyushu University,JP,JA,20
+330,83,1,Osmania University,IN,HI,20
+331,83,1,Universidade Federal de Minas Gerais,BR,PT,20
+332,82,3,Georgia Institute of Technology,US,EN,19
+333,82,2,University of Würzburg,DE,DE,15
+334,82,1,Hitotsubashi University,JP,JA,19
+335,82,1,Amirkabir University of Technology,IR,FA,20
+336,82,1,Szent István University,HU,HU,20
+337,82,1,National Institutes of Technology,IN,HI,21
+338,81,2,University of Turin,IT,IT,15
+339,81,1,University of Calcutta,IN,HI,19
+340,81,1,Doshisha University,JP,JA,19
+341,81,1,Sun Yat-sen University,CN,ZH,20
+342,81,1,Tilburg University,NL,NL,20
+343,81,1,Dankook University,KR,KO,20
+344,81,1,University of Lapland,FI,WR,20
+345,81,1,Rangsit University,TH,TH,20
+346,81,1,Universiti Malaysia Sarawak,MY,MS,20
+347,80,1,Rikkyo University,JP,JA,19
+348,80,1,Moscow Institute of Physics and Technology,RU,RU,20
+349,80,1,University of Hyderabad,IN,HI,20
+350,80,1,Örebro University,SE,SV,20
+351,80,1,"Vietnam National University, Hanoi",VN,VI,20
+352,80,1,Universiti Malaysia Sabah,MY,MS,20
+353,80,1,Bolivarian University of Venezuela,VE,ES,21
+354,79,1,Nagoya University,JP,JA,19
+355,79,1,Universidade Federal de Viçosa,BR,PT,20
+356,79,1,Renmin University of China,CN,ZH,20
+357,79,1,Anadolu University,TR,TR,20
+358,79,1,Sogang University,KR,KO,20
+359,79,1,Kumaun University,IN,HI,20
+360,79,1,Naresuan University,TH,TH,20
+361,79,1,Mid Sweden University,SE,SV,20
+362,78,3,"Vietnam National University, Ho Chi Minh City",VN,VI,20
+363,78,1,Mashhad University of Medical Sciences,IR,FA,20
+364,78,1,University of Pannonia,HU,HU,20
+365,78,1,Indian Institute of Technology Madras,IN,HI,20
+366,78,1,University of Twente,NL,NL,20
+367,78,1,King Abdulaziz University,SA,AR,20
+368,78,1,Universidad Juárez del Estado de Durango,MX,ES,20
+369,78,1,University of Crete,GR,EL,20
+370,78,1,Mahasarakham University,TH,TH,20
+371,78,1,Istanbul Bilgi University,TR,TR,20
+372,77,2,University of Rostock,DE,DE,15
+373,77,1,Southern Illinois University Carbondale,US,EN,19
+374,77,1,Beijing Normal University,CN,ZH,20
+375,77,1,Konkuk University,KR,KO,20
+376,77,1,Atatürk University,TR,TR,20
+377,77,1,Asian Institute of Technology,TH,TH,20
+378,77,1,Purbanchal University,NP,WR,20
+379,77,1,University of Kuala Lumpur,MY,MS,21
+380,76,2,Tampere University of Technology,FI,WR,20
+381,76,2,University of Kassel,DE,DE,20
+382,76,1,"Panjab University, Chandigarh",IN,HI,19
+383,76,1,Federal University of Bahia,BR,PT,20
+384,76,1,Karadeniz Technical University,TR,TR,20
+385,76,1,Eindhoven University of Technology,NL,NL,20
+386,76,1,Pusat Perubatan Universiti Kebangsaan Malaysia,MY,MS,20
+387,76,1,Umm al-Qura University,SA,AR,20
+388,76,1,Tarbiat Modares University,IR,FA,20
+389,75,1,Aoyama Gakuin University,JP,JA,19
+390,75,1,Universidade Federal do Rio Grande do Sul,BR,PT,19
+391,75,1,Austral University of Chile,CL,ES,20
+392,75,1,Nanyang Technological University,SG,ZH,20
+393,75,1,University of Białystok,PL,PL,20
+394,75,1,University of Monastir,TN,AR,21
+395,75,1,Kastamonu University,TR,TR,21
+396,74,1,Galatasaray University,TR,TR,15
+397,74,1,National University of Engineering,PE,ES,19
+398,74,1,Óbuda University,HU,HU,19
+399,74,1,University of Porto,PT,PT,20
+400,74,1,Nankai University,CN,ZH,20
+401,74,1,Tokai University,JP,JA,20
+402,74,1,Myongji University,KR,KO,20
+403,74,1,Khon Kaen University,TH,TH,20
+404,74,1,Université du Québec à Montréal,CA,EN,20
+405,73,2,Karlsruhe Institute of Technology,DE,DE,19
+406,73,2,University of Milan,IT,IT,20
+407,73,1,University of Mainz,DE,DE,15
+408,73,1,Polytechnic School of the University of São Paulo,BR,PT,19
+409,73,1,Sophia University,JP,JA,20
+410,73,1,Bandung Institute of Technology,ID,WR,20
+411,73,1,Belarusian State University,BY,RU,20
+412,73,1,Costa Rica Institute of Technology,CR,ES,20
+413,73,1,Menoufia University,EG,AR,20
+414,73,1,Çanakkale Onsekiz Mart University,TR,TR,20
+415,73,1,Széchenyi István University,HU,HU,21
+416,73,1,Doon University,IN,HI,21
+417,72,1,University of Palermo,IT,IT,19
+418,72,1,University of Science and Technology of China,CN,ZH,20
+419,72,1,Ruhr University Bochum,DE,DE,20
+420,72,1,University of al-Qarawiyyin,MA,AR,20
+421,72,1,National Research University – Higher School of Economics,RU,RU,20
+422,72,1,Graphic Era University,IN,HI,20
+423,72,1,Çankaya University,TR,TR,20
+424,72,1,University of Warmia and Mazury in Olsztyn,PL,PL,20
+425,72,1,Universiti Malaysia Kelantan,MY,MS,21
+426,71,1,Tokyo Institute of Technology,JP,JA,19
+427,71,1,Gadjah Mada University,ID,WR,20
+428,71,1,"Birla Institute of Technology, Mesra",IN,HI,20
+429,71,1,University of Hasselt,BE,NL,20
+430,71,1,Sapientia University,HU,HU,20
+431,70,1,École Centrale Paris,FR,FR,19
+432,70,1,Universidad Nacional Autónoma de Honduras,HN,ES,19
+433,70,1,Saint Petersburg State Polytechnic University,RU,RU,19
+434,70,1,Tongji University,CN,ZH,20
+435,70,1,Hiroshima University,JP,JA,20
+436,70,1,University of Medicine and Pharmacy of Târgu Mureș,RO,WR,20
+437,70,1,Burapha University,TH,TH,20
+438,70,1,University of Szczecin,PL,PL,20
+439,69,2,University of Nottingham,UK,EN,19
+440,69,1,"Università degli Studi di Napoli L'Orientale""""",IT,IT,18
+441,69,1,Odessa University,UA,WR,19
+442,69,1,Toyo University,JP,JA,19
+443,69,1,Åbo Akademi University,FI,WR,20
+444,69,1,University of Rajasthan,IN,HI,20
+445,69,1,Paris 8 University,FR,FR,20
+446,69,1,São Paulo State University,BR,PT,20
+447,69,1,University of Sfax,TN,AR,20
+448,69,1,Sabancı University,TR,TR,20
+449,68,1,Liverpool John Moores University,UK,EN,19
+450,68,1,University of Westminster,UK,EN,19
+451,68,1,Soongsil University,KR,KO,19
+452,68,1,Kobe University,JP,JA,20
+453,68,1,Padjadjaran University,ID,WR,20
+454,68,1,Thaksin University,TH,TH,20
+455,68,1,Helwan University,EG,AR,20
+456,68,1,Selçuk University,TR,TR,20
+457,68,1,Central European University,HU,HU,20
+458,68,1,Central University of Rajasthan,IN,HI,21
+459,67,3,Rice University,US,EN,20
+460,67,2,University of Oklahoma,US,EN,19
+461,67,2,École Polytechnique Fédérale de Lausanne,CH,DE,20
+462,67,1,University of Giessen,DE,DE,17
+463,67,1,Tomsk State University,RU,RU,19
+464,67,1,Comenius University,SK,WR,20
+465,67,1,Tehran University of Medical Sciences,IR,FA,20
+466,67,1,Dr. Hari Singh Gour University,IN,HI,20
+467,67,1,Jilin University,CN,ZH,20
+468,67,1,Inha University,KR,KO,20
+469,67,1,University of Macedonia,GR,EL,20
+470,67,1,Assumption University (Thailand),TH,TH,20
+471,67,1,Pierre and Marie Curie University,FR,FR,20
+472,67,1,University of Minho,PT,PT,20
+473,67,1,Favaloro University,AR,ES,20
+474,66,1,University of Catania,IT,IT,15
+475,66,1,École des ponts ParisTech,FR,FR,18
+476,66,1,Chungnam National University,KR,KO,20
+477,66,1,King Mongkut's University of Technology Thonburi,TH,TH,20
+478,66,1,University of Bordeaux 1,FR,FR,20
+479,66,1,Zagazig University,EG,AR,20
+480,66,1,University of Cyprus,CY,EL,20
+481,66,1,Opole University,PL,PL,20
+482,66,1,University of Kaposvár,HU,HU,20
+483,66,1,University of Kota,IN,HI,21
+484,65,1,Gakushuin University,JP,JA,19
+485,65,1,University of Sucre,CO,ES,20
+486,65,1,Guru Gobind Singh Indraprastha University,IN,HI,20
+487,65,1,Universiti Malaysia Perlis,MY,MS,21
+488,65,1,University of Gabès,TN,AR,21
+489,65,1,Rajamangala University of Technology,TH,TH,21
+490,65,1,Avrasya University,TR,TR,21
+491,64,1,University of Genoa,IT,IT,15
+492,64,1,Federal University of Pernambuco,BR,PT,19
+493,64,1,Universidad Autónoma de Nuevo León,MX,ES,20
+494,64,1,Tata Institute of Fundamental Research,IN,HI,20
+495,64,1,Universiti Sultan Zainal Abidin,MY,MS,20
+496,63,3,Florida State University,US,EN,19
+497,63,3,California State University,US,EN,19
+498,63,1,Kwansei Gakuin University,JP,JA,19
+499,63,1,Indian Institute of Science,IN,HI,20
+500,63,1,Xiamen University,CN,ZH,20
+501,63,1,Assiut University,EG,AR,20
+502,63,1,King Mongkut's Institute of Technology Ladkrabang,TH,TH,20
+503,63,1,University of Selangor,MY,MS,20
+504,62,2,University of Basrah,IQ,AR,20
+505,62,1,Medical University of Warsaw,PL,PL,19
+506,62,1,Kansai University,JP,JA,19
+507,62,1,Indian Institute of Technology Bombay,IN,HI,20
+508,62,1,Federal University of Santa Catarina,BR,PT,20
+509,62,1,University of Thessaly,GR,EL,20
+510,61,2,Polytechnic University of Catalonia,ES,ES,20
+511,61,1,Bocconi University,IT,IT,20
+512,61,1,University of Turku,FI,WR,20
+513,61,1,Chiba University,JP,JA,20
+514,61,1,Iran University of Medical Sciences,IR,FA,20
+515,61,1,Cesar Vallejo University,PE,ES,20
+516,61,1,International Medical University,MY,MS,20
+517,61,1,Istanbul Commerce University,TR,TR,21
+518,61,1,Indian Institutes of Science Education and Research,IN,HI,21
+519,60,3,Arizona State University,US,EN,19
+520,60,1,University of Innsbruck,AT,DE,17
+521,60,1,Southeast University,CN,ZH,20
+522,60,1,Sripatum University,TH,TH,20
+523,60,1,Mansoura University,EG,AR,20
+524,60,1,Uludağ University,TR,TR,20
+525,60,1,Cyprus University of Technology,CY,EL,21
+526,60,1,Indian Institute of Space Science and Technology,IN,HI,21
+527,59,3,"University of California, Santa Barbara",US,EN,19
+528,59,3,University of Leeds,UK,EN,20
+529,59,2,Emory University,US,EN,19
+530,59,1,Sichuan University,CN,ZH,18
+531,59,1,National Research Nuclear University MEPhI,RU,RU,20
+532,59,1,Dong-a University,KR,KO,20
+533,59,1,King Mongkut's University of Technology North Bangkok,TH,TH,20
+534,59,1,Devi Ahilya Vishwavidyalaya,IN,HI,20
+535,59,1,Trisakti University,ID,WR,20
+536,59,1,Andrássy University Budapest,HU,HU,21
+537,58,1,University of Bern,CH,DE,19
+538,58,1,Creighton University,US,EN,19
+539,58,1,Harbin Institute of Technology,CN,ZH,20
+540,58,1,Lebanese University,LB,AR,20
+541,58,1,Dhurakij Pundit University,TH,TH,20
+542,58,1,Koç University,TR,TR,20
+543,57,1,Okayama University,JP,JA,19
+544,57,1,Shandong University,CN,ZH,20
+545,57,1,Visva-Bharati University,IN,HI,20
+546,57,1,Saarland University,DE,DE,20
+547,57,1,Rio de Janeiro State University,BR,PT,20
+548,57,1,YARSI University,ID,WR,20
+549,57,1,The Institute of Technology at Linköping University,SE,SV,20
+550,57,1,Yarmouk University,JO,AR,20
+551,56,1,University of Stuttgart,DE,DE,19
+552,56,1,University of Isfahan,IR,FA,20
+553,56,1,Novosibirsk State University,RU,RU,20
+554,56,1,Yeungnam University,KR,KO,20
+555,56,1,Suranaree University of Technology,TH,TH,20
+556,56,1,Universiti Tunku Abdul Rahman,MY,MS,21
+557,56,1,University of Bordeaux,FR,FR,21
+558,56,1,"National Institute of Technology, Arunachal Pradesh",IN,HI,21
+559,55,1,Komazawa University,JP,JA,16
+560,55,1,University of Hanover,DE,DE,19
+561,55,1,University of Piraeus,GR,EL,20
+562,55,1,Pusan National University,KR,KO,20
+563,55,1,University of San Diego,US,EN,20
+564,55,1,Dravidian University,IN,HI,20
+565,55,1,University of Sousse,TN,AR,21
+566,54,1,University of Perugia,IT,IT,14
+567,54,1,Adolfo Ibáñez University,CL,ES,20
+568,54,1,University of Regensburg,DE,DE,20
+569,54,1,Ubon Ratchathani University,TH,TH,20
+570,54,1,Indian Institute of Technology Guwahati,IN,HI,20
+571,53,3,Durham University,UK,EN,19
+572,53,2,University of Siena,IT,IT,13
+573,53,1,Saint Joseph University,LB,AR,19
+574,53,1,University of Seoul,KR,KO,20
+575,53,1,University of Tabriz,IR,FA,20
+576,53,1,Kanazawa University,JP,JA,20
+577,53,1,Hanoi University of Science and Technology,VN,VI,20
+578,53,1,Bielefeld University,DE,DE,20
+579,53,1,Vinoba Bhave University,IN,HI,20
+580,53,1,Adnan Menderes University,TR,TR,20
+581,53,1,University of Flensburg,DE,DE,20
+582,52,1,Mines ParisTech,FR,FR,18
+583,52,1,Indian Institute of Technology Kanpur,IN,HI,20
+584,52,1,University of Tromsø,NO,WR,20
+585,52,1,Tanta University,EG,AR,20
+586,52,1,Çukurova University,TR,TR,20
+587,52,1,University of Peloponnese,GR,EL,21
+588,51,2,University of South Florida,US,EN,20
+589,51,2,University of Oulu,FI,WR,20
+590,51,1,University of Duisburg-Essen,DE,DE,17
+591,51,1,Osaka City University,JP,JA,19
+592,51,1,Xi'an Jiaotong University,CN,ZH,19
+593,51,1,Kookmin University,KR,KO,20
+594,51,1,Bu-Ali Sina University,IR,FA,20
+595,51,1,Erciyes University,TR,TR,20
+596,51,1,Ionian University,GR,EL,20
+597,51,1,Universiti Teknologi Petronas,MY,MS,20
+598,51,1,West Bengal University of Technology,IN,HI,20
+599,50,3,Texas A&M University,US,EN,19
+600,50,1,Ryukoku University,JP,JA,17
+601,50,1,Technische Universität Darmstadt,DE,DE,19
+602,50,1,Hanoi Medical University,VN,VI,20
+603,50,1,Kyungpook National University,KR,KO,20
+604,50,1,University of Los Andes (Colombia),CO,ES,20
+605,50,1,Shri Govindram Seksaria Institute of Technology and Science,IN,HI,20
+606,50,1,University of Paris III: Sorbonne Nouvelle,FR,FR,20
+607,50,1,An-Najah National University,PS,AR,20
+608,49,3,University of Kansas,US,EN,19
+609,49,2,University of Fribourg,CH,DE,16
+610,49,2,Federal University of Rio Grande do Norte,BR,PT,20
+611,49,1,Meiji Gakuin University,JP,JA,19
+612,49,1,Kraków University of Economics,PL,PL,20
+613,49,1,East China Normal University,CN,ZH,20
+614,49,1,University of the City of Manila,PH,EN,20
+615,49,1,University of Konstanz,DE,DE,20
+616,49,1,Universidade Nova de Lisboa,PT,PT,20
+617,49,1,Tun Hussein Onn University of Malaysia,MY,MS,20
+618,48,2,University of Utah,US,EN,19
+619,48,2,Monash University,AU,EN,20
+620,48,1,University of Vermont,US,EN,18
+621,48,1,Plekhanov Russian University of Economics,RU,RU,20
+622,48,1,Fluminense Federal University,BR,PT,20
+623,48,1,Paris Dauphine University,FR,FR,20
+624,48,1,University of Córdoba (Spain),ES,ES,20
+625,48,1,Akdeniz University,TR,TR,20
+626,48,1,Mae Fah Luang University,TH,TH,20
+627,47,3,Concordia University,CA,EN,19
+628,47,1,Loyola University Chicago,US,EN,19
+629,47,1,Federal University of Paraná,BR,PT,20
+630,47,1,Technical University of Cluj-Napoca,RO,WR,20
+631,47,1,Ural State University,RU,RU,20
+632,47,1,Technological University of Pereira,CO,ES,20
+633,47,1,University of Düsseldorf,DE,DE,20
+634,47,1,Universiti Teknikal Malaysia Melaka,MY,MS,20
+635,46,2,Tufts University,US,EN,19
+636,46,2,Cardiff University,UK,EN,19
+637,46,2,City University London,UK,EN,20
+638,46,1,University of Caen Lower Normandy,FR,FR,15
+639,46,1,University of Sassari,IT,IT,16
+640,46,1,Yogyakarta State University,ID,WR,20
+641,46,1,Anna University,IN,HI,20
+642,46,1,Sirindhorn International Institute of Technology,TH,TH,20
+643,46,1,TecMilenio University,MX,ES,21
+644,46,1,Tokyo Metropolitan University,JP,JA,21
+645,45,1,National University of Kyiv-Mohyla Academy,UA,WR,17
+646,45,1,University of Mannheim,DE,DE,18
+647,45,1,"Royal Holloway, University of London",UK,EN,19
+648,45,1,Wrocław Medical University,PL,PL,20
+649,45,1,Jadavpur University,IN,HI,20
+650,45,1,West University of Timișoara,RO,WR,20
+651,45,1,Federal University of Uberlândia,BR,PT,20
+652,44,3,University of Colorado Boulder,US,EN,19
+653,44,1,Niigata University,JP,JA,19
+654,44,1,Gdańsk Medical University,PL,PL,20
+655,44,1,State University of New York,US,EN,20
+656,44,1,Karnatak University,IN,HI,20
+657,44,1,Ho Chi Minh City University of Technology,VN,VI,20
+658,44,1,UCSI University,MY,MS,20
+659,44,1,Bahçeşehir University,TR,TR,20
+660,44,1,University of Western Macedonia,GR,EL,21
+661,43,3,Ohio Wesleyan University,US,EN,19
+662,43,2,Wrocław University of Economics,PL,PL,21
+663,43,1,University of South Africa,ZA,WR,19
+664,43,1,Universidad Adventista del Plata,AR,ES,19
+665,43,1,Kyiv Polytechnic Institute,UA,WR,19
+666,43,1,Kyonggi University,KR,KO,20
+667,43,1,National Economics University (Vietnam),VN,VI,20
+668,43,1,University of Jordan,JO,AR,20
+669,43,1,Brunel University London,UK,EN,20
+670,43,1,Holon Institute of Technology,IL,HE,20
+671,43,1,Okan University,TR,TR,20
+672,42,1,Liverpool Hope University,UK,EN,19
+673,42,1,Oregon State University,US,EN,19
+674,42,1,Ochanomizu University,JP,JA,19
+675,42,1,University of Queensland,AU,EN,20
+676,42,1,Chosun University,KR,KO,20
+677,42,1,"National Institute of Technology, Karnataka",IN,HI,20
+678,42,1,Kazimierz Wielki University in Bydgoszcz,PL,PL,20
+679,42,1,National University of Río Cuarto,AR,ES,20
+680,42,1,Beykent University,TR,TR,20
+681,42,1,Universiti Malaysia Pahang,MY,MS,21
+682,41,1,University of Missouri,US,EN,19
+683,41,1,Pai Chai University,KR,KO,19
+684,41,1,Poznań University of Economics,PL,PL,20
+685,41,1,Alzahra University,IR,FA,20
+686,41,1,Trakya University,TR,TR,20
+687,41,1,Pablo de Olavide University,ES,ES,20
+688,40,2,University of New South Wales,UK,EN,20
+689,40,1,University of Georgia,US,EN,18
+690,40,1,University of Ottawa,CA,EN,19
+691,40,1,University of Maine,US,EN,19
+692,40,1,Virginia Tech,US,EN,19
+693,40,1,Vikram University,IN,HI,20
+694,40,1,Kyoto Sangyo University,JP,JA,20
+695,40,1,National University of Central Buenos Aires,AR,ES,20
+696,40,1,Kocaeli University,TR,TR,20
+697,40,1,Selye János University,SK,WR,21
+698,39,2,Vanderbilt University,US,EN,19
+699,39,1,University of Bergen,NO,WR,19
+700,39,1,University of Rochester,US,EN,19
+701,39,1,Ca' Foscari University of Venice,IT,IT,19
+702,39,1,Australian National University,AU,EN,20
+703,39,1,University of Bremen,DE,DE,20
+704,39,1,Payap University,TH,TH,20
+705,39,1,Sri Ramachandra Medical College and Research Institute,IN,HI,20
+706,39,1,Rzeszów University,PL,PL,21
+707,38,2,University of Reading,UK,EN,20
+708,38,1,University of Havana,CU,ES,18
+709,38,1,Vienna University of Technology,AT,DE,19
+710,38,1,Teikyo University,JP,JA,20
+711,38,1,Université de Sherbrooke,CA,EN,20
+712,38,1,Rabindra Bharati University,IN,HI,20
+713,38,1,Florida International University,US,EN,20
+714,38,1,University of Swaziland,SZ,EN,20
+715,38,1,Pamukkale University,TR,TR,20
+716,38,1,University of Gafsa,TN,AR,21
+717,37,2,University of the Faroe Islands,FO,DA,20
+718,37,1,University of Trier,DE,DE,15
+719,37,1,University of Cagliari,IT,IT,17
+720,37,1,Glasgow Caledonian University,UK,EN,19
+721,37,1,Bangalore University,IN,HI,19
+722,37,1,Saitama University,JP,JA,20
+723,37,1,Chonnam National University,KR,KO,20
+724,37,1,Diponegoro University,ID,WR,20
+725,37,1,Afyon Kocatepe University,TR,TR,20
+726,36,1,Sampurnanand Sanskrit University,IN,HI,18
+727,36,1,National University of Saint Augustine,PE,ES,19
+728,36,1,Kharazmi University,IR,FA,20
+729,36,1,University of Bari,IT,IT,20
+730,36,1,Kumamoto University,JP,JA,20
+731,36,1,Northwestern Polytechnical University,CN,ZH,20
+732,36,1,Mohammed V University,MA,AR,20
+733,36,1,European University Cyprus,CY,EL,20
+734,36,1,University of Strathclyde,UK,EN,20
+735,36,1,Jan Kochanowski University,PL,PL,20
+736,35,2,University of Alabama,US,EN,19
+737,35,1,Jinan University,CN,ZH,20
+738,35,1,Kokushikan University,JP,JA,20
+739,35,1,Chaudhary Charan Singh University,IN,HI,20
+740,35,1,Yaşar University,TR,TR,21
+741,34,2,University of Bamberg,DE,DE,17
+742,34,2,Tbilisi State University,GE,WR,20
+743,34,2,University of the Bío Bío,CL,ES,20
+744,34,1,University of Oregon,US,EN,19
+745,34,1,Perm State University,RU,RU,20
+746,34,1,Medical University of Silesia,PL,PL,20
+747,34,1,Saha Institute of Nuclear Physics,IN,HI,20
+748,34,1,Sakarya University,TR,TR,20
+749,34,1,Anton de Kom University of Suriname,SR,NL,20
+750,34,1,Jacobs University Bremen,DE,DE,21
+751,33,2,Viadrina European University,DE,DE,16
+752,33,2,Washington State University,US,EN,19
+753,33,1,Braunschweig University of Technology,DE,DE,18
+754,33,1,Illinois Institute of Technology,US,EN,19
+755,33,1,Tianjin University,CN,ZH,19
+756,33,1,Ural State Technical University,RU,RU,20
+757,33,1,Seijo University,JP,JA,20
+758,33,1,Beirut Arab University,LB,AR,20
+759,33,1,Universiti Brunei Darussalam,BN,MS,20
+760,33,1,University of Zielona Góra,PL,PL,21
+761,33,1,Ramakrishna Mission Vivekananda University,IN,HI,21
+762,32,2,United Nations University,JP,EN,20
+763,32,1,University of Salzburg,AT,DE,17
+764,32,1,Queen's University,CA,EN,19
+765,32,1,University of Illinois at Chicago,US,EN,19
+766,32,1,Kent State University,US,EN,20
+767,32,1,Voronezh State University,RU,RU,20
+768,32,1,Sejong University,KR,KO,20
+769,32,1,Beijing Institute of Technology,CN,ZH,20
+770,32,1,University of Aleppo,SY,AR,20
+771,32,1,University of Aveiro,PT,PT,20
+772,32,1,Yazd University,IR,FA,20
+773,32,1,West Bengal University of Health Sciences,IN,HI,21
+774,31,1,University of Santo Tomas,PH,EN,17
+775,31,1,"National Institute of Technology, Durgapur",IN,HI,20
+776,31,1,Krasnoyarsk State University,RU,RU,20
+777,31,1,Central Queensland University,UK,EN,20
+778,31,1,University of Rennes 2 – Upper Brittany,FR,FR,20
+779,31,1,Wonkwang University,KR,KO,20
+780,30,1,Sofia University,BG,WR,19
+781,30,1,Loughborough University,UK,EN,20
+782,30,1,ENSAE ParisTech,FR,FR,20
+783,30,1,Curtin University,AU,EN,20
+784,30,1,West Bengal University of Animal and Fishery Sciences,IN,HI,20
+785,30,1,German University in Cairo,EG,AR,21
+786,29,1,"Indian Institute of Engineering Science and Technology, Shibpur",IN,HI,19
+787,29,1,Stellenbosch University,ZA,WR,19
+788,29,1,Saratov State University,RU,RU,20
+789,29,1,Hunan University,CN,ZH,20
+790,29,1,Kanagawa University,JP,JA,20
+791,29,1,University of Augsburg,DE,DE,20
+792,29,1,"University of Economics, Ho Chi Minh City",VN,VI,20
+793,29,1,Soonchunhyang University,KR,KO,20
+794,29,1,University of Burgos,ES,ES,20
+795,28,2,Seikei University,JP,JA,20
+796,28,1,Yunnan University,CN,ZH,20
+797,28,1,Petrozavodsk State University,RU,RU,20
+798,28,1,Shinshu University,JP,JA,20
+799,28,1,Jean Moulin University Lyon 3,FR,FR,20
+800,28,1,London South Bank University,UK,EN,20
+801,28,1,Bangkokthonburi University,TH,TH,21
+802,28,1,"Indian Institute of Technology, Hyderabad",IN,HI,21
+803,27,1,University of Ferrara,IT,IT,14
+804,27,1,University of Massachusetts Amherst,US,EN,19
+805,27,1,Lehigh University,US,EN,19
+806,27,1,Federal University of São Paulo,BR,PT,20
+807,27,1,Deen Dayal Upadhyay Gorakhpur University,IN,HI,20
+808,27,1,University of Magdalena,CO,ES,20
+809,26,2,University of Potsdam,DE,DE,20
+810,26,1,Lumière University Lyon 2,FR,FR,19
+811,26,1,Juntendo University,JP,JA,19
+812,26,1,University of Wisconsin System,US,EN,19
+813,26,1,Autonomous University of Baja California,MX,ES,20
+814,26,1,University of Tirana,AL,WR,20
+815,26,1,Motilal Nehru National Institute of Technology Allahabad,IN,HI,20
+816,26,1,Petra Christian University,ID,WR,20
+817,26,1,University of Papua New Guinea,PG,EN,20
+818,26,1,Kadir Has University,TR,TR,20
+819,26,1,Nakhon Phanom University,TH,TH,21
+820,25,1,University of Évora,PT,PT,16
+821,25,1,University of Louisville,US,EN,18
+822,25,1,N. I. Lobachevsky State University of Nizhny Novgorod,RU,RU,20
+823,25,1,Poznan University of Medical Sciences,PL,PL,20
+824,25,1,South China University of Technology,CN,ZH,20
+825,25,1,Harish-Chandra Research Institute,IN,HI,20
+826,25,1,Charles de Gaulle University – Lille III,FR,FR,20
+827,25,1,King Faisal University,SA,AR,20
+828,25,1,Mersin University,TR,TR,20
+829,25,1,National University of Laos,LA,WR,20
+830,25,1,University of Nottingham Malaysia Campus,MY,MS,20
+831,25,1,Princess of Naradhiwas University,TH,TH,21
+832,24,1,University of Modena and Reggio Emilia,IT,IT,12
+833,24,1,Shizuoka University,JP,JA,20
+834,24,1,Middlesex University,UK,EN,20
+835,24,1,Mahatma Gandhi Antarrashtriya Hindi Vishwavidyalaya,IN,HI,20
+836,24,1,University of Jendouba,TN,AR,21
+837,23,1,University of Poitiers,FR,FR,15
+838,23,1,University of Messina,IT,IT,16
+839,23,1,Newcastle University,UK,EN,19
+840,23,1,Fordham University,US,EN,19
+841,23,1,Ulster University,IE,EN,19
+842,23,1,Seoul National University Hospital,KR,KO,19
+843,23,1,Southwest Jiaotong University,CN,ZH,19
+844,23,1,University of the Ryukyus,JP,JA,20
+845,22,1,University of Guadalajara,MX,ES,18
+846,22,1,Bangor University,UK,EN,19
+847,22,1,University of Khartoum,SD,AR,20
+848,22,1,Gulbarga University,IN,HI,20
+849,22,1,Hanshin University,KR,KO,20
+850,21,2,University of Miami,US,EN,20
+851,21,1,University of L'Aquila,IT,IT,16
+852,21,1,College of William & Mary,US,EN,17
+853,21,1,University of Nebraska–Lincoln,US,EN,19
+854,21,1,Shanghai University,CN,ZH,20
+855,21,1,Mangalore University,IN,HI,20
+856,21,1,National University of General Sarmiento,AR,ES,20
+857,20,1,University of Buenos Aires,AR,ES,19
+858,20,1,University of Scranton,US,EN,19
+859,20,1,Udmurt State University,RU,RU,20
+860,20,1,Sangmyung University,KR,KO,20
+861,20,1,Nagasaki University,JP,JA,20
+862,20,1,University of Brawijaya,ID,WR,20
+863,20,1,Rajiv Gandhi University of Health Sciences,IN,HI,20
+864,19,1,Riga Technical University,LV,WR,19
+865,19,1,North Carolina State University,US,EN,19
+866,19,1,Kagoshima University,JP,JA,20
+867,19,1,State University of Malang,ID,WR,20
+868,19,1,Federal University of Ceará,BR,PT,20
+869,19,1,Technical University of Dortmund,DE,DE,20
+870,19,1,University of Toulouse II – Le Mirail,FR,FR,20
+871,19,1,International School for Advanced Studies,IT,IT,20
+872,19,1,University of Nicosia,CY,EL,20
+873,19,1,Kuvempu University,IN,HI,20
+874,19,1,Başkent University,TR,TR,20
+875,18,2,University of Sheffield,UK,EN,19
+876,18,1,"University of Wales, Lampeter",UK,EN,19
+877,18,1,Aberystwyth University,UK,EN,19
+878,18,1,Hirosaki University,JP,JA,20
+879,18,1,Indian Institute of Technology Kharagpur,IN,HI,20
+880,18,1,Ajou University,KR,KO,20
+881,18,1,Cumhuriyet University,TR,TR,20
+882,18,1,South Valley University,EG,AR,20
+883,17,1,Lille University of Science and Technology,FR,FR,19
+884,17,1,Howard University,US,EN,19
+885,17,1,Yamagata University,JP,JA,19
+886,17,1,DePaul University,US,EN,19
+887,17,1,University of Alberta,CA,EN,20
+888,17,1,Rashtrasant Tukadoji Maharaj Nagpur University,IN,HI,20
+889,17,1,Technical University of Lisbon,PT,PT,20
+890,17,1,George Mason University,US,EN,20
+891,17,1,University of Talca,CL,ES,20
+892,16,1,Osaka Prefecture University,JP,JA,19
+893,16,1,Pathumwan Institute of Technology,TH,TH,20
+894,16,1,Tata Institute of Social Sciences,IN,HI,20
+895,16,1,Stony Brook University,US,EN,20
+896,16,1,University of Central Florida,US,EN,20
+897,16,1,Eskişehir Osmangazi University,TR,TR,20
+898,16,1,Manouba University,TN,AR,20
+899,15,1,Rissho University,JP,JA,16
+900,15,1,Heriot-Watt University,UK,EN,19
+901,15,1,Central University of Ecuador,EC,ES,19
+902,15,1,London Metropolitan University,UK,EN,19
+903,15,1,Keimyung University,KR,KO,19
+904,15,1,Moscow Institute of Steel and Alloys,RU,RU,20
+905,15,1,Shiraz University of Medical Sciences,IR,FA,20
+906,15,1,Lancaster University,UK,EN,20
+907,15,1,Christ University,IN,HI,20
+908,15,1,University of Cumbria,UK,EN,21
+909,14,1,Tomsk Polytechnic University,RU,RU,19
+910,14,1,University of Trieste,IT,IT,20
+911,14,1,Gujarat University,IN,HI,20
+912,14,1,University of Benghazi,LY,AR,20
+913,14,1,University of Bayreuth,DE,DE,20
+914,14,1,University of East London,UK,EN,20
+915,13,1,École normale supérieure,FR,FR,19
+916,13,1,Chalmers University of Technology,SE,SV,19
+917,13,1,École centrale de Lille,FR,FR,19
+918,13,1,University of Puerto Rico,PR,ES,20
+919,13,1,Russian National Research Medical University,RU,RU,20
+920,13,1,Tokyo Medical and Dental University,JP,JA,20
+921,13,1,Kyungsung University,KR,KO,20
+922,13,1,Sana'a University,YE,AR,20
+923,13,1,Manipur University,IN,HI,20
+924,13,1,Al-Quds University,PS,AR,20
+925,13,1,"University of Technology, Sydney",AU,EN,20
+926,12,1,University of Parma,IT,IT,12
+927,12,1,University of the Andes (Venezuela),VE,ES,19
+928,12,1,Royal Institute of Technology,SE,SV,19
+929,12,1,Yerevan State University,AM,WR,20
+930,12,1,National Taiwan University,TW,ZH,20
+931,12,1,Chinese University of Hong Kong,CN,ZH,20
+932,12,1,University of Bath,UK,EN,20
+933,12,1,Chhatrapati Shahu Ji Maharaj University,IN,HI,20
+934,12,1,University of Calgary,CA,EN,20
+935,12,1,National Defense Medical College,JP,JA,20
+936,12,1,Ondokuz Mayıs University,TR,TR,20
+937,11,1,University of Aberdeen,UK,EN,15
+938,11,1,University of Massachusetts,US,EN,19
+939,11,1,University of Concepción,CL,ES,20
+940,11,1,Federal University of Paraíba,BR,PT,20
+941,11,1,Siam University,TH,TH,20
+942,11,1,Eurasia International University,AM,WR,20
+943,11,1,Dev Sanskriti Vishwavidyalaya,IN,HI,21
+944,11,1,Nile University,EG,AR,21
+945,10,1,University of Granada,ES,ES,16
+946,10,1,"Trinity College, Oxford",UK,EN,16
+947,10,1,Dalhousie University,CA,EN,19
+948,10,1,Ho Chi Minh City University of Architecture,VN,VI,20
+949,10,1,Bhatkhande Music Institute,IN,HI,20
+950,9,2,University of Sunderland,UK,EN,20
+951,9,1,University of Erfurt,DE,DE,14
+952,9,1,University of Bucharest,RO,WR,19
+953,9,1,École normale supérieure de Lyon,FR,FR,19
+954,9,1,Annamalai University,IN,HI,20
+955,9,1,Kyungnam University,KR,KO,20
+956,9,1,University of North Carolina at Wilmington,US,EN,20
+957,9,1,Tokyo City University,JP,JA,20
+958,9,1,National University of the Northeast,AR,ES,20
+959,9,1,University of Tripoli,LY,AR,20
+960,8,1,University of Rhode Island,US,EN,19
+961,8,1,University of St. Gallen,CH,DE,19
+962,8,1,Southern Federal University,RU,RU,20
+963,8,1,University of Texas MD Anderson Cancer Center,US,EN,20
+964,8,1,Jeonju University,KR,KO,20
+965,8,1,Da Nang University of Technology,VN,VI,20
+966,8,1,Assam University,IN,HI,20
+967,7,1,Irkutsk State University,RU,RU,20
+968,7,1,Andalas University,ID,WR,20
+969,7,1,"National Institute of Technology, Rourkela",IN,HI,20
+970,7,1,"University of California, Irvine",US,EN,20
+971,7,1,Technical University of Hamburg,DE,DE,20
+972,7,1,University of Macau,CN,ZH,20
+973,6,1,University of Lleida,ES,ES,13
+974,6,1,École normale supérieure de Cachan,FR,FR,19
+975,6,1,Guizhou University,CN,ZH,20
+976,6,1,"University of California, Davis",US,EN,20
+977,6,1,Chonbuk National University,KR,KO,20
+978,6,1,Heilbronn University,DE,DE,20
+979,6,1,University of Victoria,CA,EN,20
+980,6,1,University of Shizuoka,JP,JA,20
+981,6,1,Integral University (Lucknow),IN,HI,20
+982,6,1,Saint Petersburg State University of Economics,RU,RU,21
+983,5,1,Iowa State University,US,EN,19
+984,5,1,Autonomous University of Sinaloa,MX,ES,19
+985,5,1,University of Toyama,JP,JA,19
+986,5,1,"Saint Petersburg State University of Information Technologies, Mechanics and Optics",RU,RU,19
+987,5,1,Henan University,CN,ZH,20
+988,5,1,"University of Economics, Prague",CZ,WR,20
+989,5,1,Boise State University,US,EN,20
+990,5,1,University of Nice Sophia Antipolis,FR,FR,20
+991,5,1,University of Mosul,IQ,AR,20
+992,4,1,University of Hohenheim,DE,DE,19
+993,4,1,University of Texas Medical Branch,US,EN,19
+994,4,1,University of Ez-Zitouna,TN,AR,20
+995,4,1,University of Limoges,FR,FR,20
+996,3,1,"University of Music and Performing Arts, Vienna",AT,DE,19
+997,3,1,University of Humanistic Studies,NL,NL,19
+998,3,1,Chongqing University,CN,ZH,20
+999,3,1,University of Tokushima,JP,JA,20
+1000,3,1,University of Southampton,UK,EN,20
+1001,3,1,Indian Institute of Technology Delhi,IN,HI,20
+1002,3,1,Royal University of Phnom Penh,KH,WR,20
+1003,3,1,Binus University,ID,WR,20
+1004,3,1,Kafrelsheikh University,EG,AR,21
+1005,2,1,University of Zaragoza,ES,ES,16
+1006,2,1,Boston College,US,EN,19
+1007,2,1,Pace University,US,EN,20
+1008,2,1,Bashkir State University,RU,RU,20
+1009,2,1,Chiba Institute of Technology,JP,JA,20
+1010,2,1,Gunma University,JP,JA,20
+1011,2,1,University of Science and Technology Beijing,CN,ZH,20
+1012,2,1,University of Trento,IT,IT,20
+1013,2,1,University of Lorraine,FR,FR,21
+1014,1,1,Hamline University,US,EN,19
+1015,1,1,University of Kentucky,US,EN,19
+1016,1,1,Kagawa University,JP,JA,19
+1017,1,1,University of Texas at Arlington,US,EN,19
+1018,1,1,Federal University of Amazonas,BR,PT,20
+1019,1,1,University of Economics in Katowice,PL,PL,20
+1020,1,1,École nationale de l'aviation civile,FR,FR,20
+1021,1,1,China University of Petroleum,CN,ZH,20
+1022,1,1,Catholic University of Eichstätt-Ingolstadt,DE,DE,20
+1023,1,1,Babasaheb Bhimrao Ambedkar University,IN,HI,20
+1024,1,1,Istanbul Aydın University,TR,TR,21
+1025,1,1,Aalto University,FI,WR,21
